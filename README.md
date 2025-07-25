@@ -24,5 +24,5 @@ This project explores employee data to uncover trends and patterns related to at
 
 ##  How to Run
 
- Clone the repo:
+1. Clone the repo:
  git clone https://github.com/Grace-1420/Data-Analysis-portfolio.git  
