@@ -26,3 +26,7 @@ This project explores employee data to uncover trends and patterns related to at
 
 1. Clone the repo:
  git clone https://github.com/Grace-1420/Data-Analysis-portfolio.git  
+
+##  Dataset
+
+The dataset `employees.csv` is included in this repository and was used for all the analysis.
