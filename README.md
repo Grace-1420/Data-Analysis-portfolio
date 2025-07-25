@@ -1,5 +1,7 @@
 # Employee Attrition Analysis
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Grace-1420/Data-Analysis-portfolio/blob/main/employee_analysis_cleaned.ipynb)
+
 This project explores employee data to uncover trends and patterns related to attrition. Using Python and libraries such as Pandas, Matplotlib, and Seaborn, it aims to identify the factors contributing to employee turnover.
 
 ##  Key Objectives
@@ -30,3 +32,5 @@ This project explores employee data to uncover trends and patterns related to at
 ##  Dataset
 
 The dataset `employees.csv` is included in this repository and was used for all the analysis.
+
+
